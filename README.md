@@ -3,10 +3,10 @@
 convert images to text offline
 
 ## Getting Started
-this app convert images to text offline using your device camera or gallery
+this app converts images to text offline using your device camera or gallery
 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [GitHub profile](https://github.com/dero8230)
+- [Project repository](https://github.com/dero8230/scannerx)
 
 
